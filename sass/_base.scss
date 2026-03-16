@@ -24,6 +24,9 @@
   --color-accent-blue-medium: #3b82f6;
   --color-accente-orange-dark: ##ea580c;
   --color-accente-orange-medium: ##fb923c;
+
+  // GRADIENTS
+  --gradient-primary: linear-gradient(120deg, #005F5ABF, #00D5BEBF);
   
   // BOX SHADOW
   --shadow-big: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
@@ -62,7 +65,7 @@ body {
   font-size: 1.8rem;
   color: var(--color-grey-text);
   line-height: 1;
-  padding: 4.8rem;
+  padding: 3.2rem;
 }
 
 ul {
@@ -92,6 +95,11 @@ input {
 
 img {
   display: block;
+}
+
+.main{
+  border-radius: 8px;
+  overflow: hidden;
 }
 
 .container {
