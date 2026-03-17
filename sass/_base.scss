@@ -50,8 +50,8 @@
 }
 
 ::selection {
-  background-color: var(--color-primary-mark);
-  color: var(--color-grey-white);
+  background-color: var(--color-primary-medium);
+  color: var(--color-grey-extralight);
 }
 
 html {
@@ -63,7 +63,7 @@ html {
 body {
   font-family: var(--font-base);
   font-size: 1.8rem;
-  color: var(--color-grey-text);
+  color: var(--color-grey-dark);
   line-height: 1;
   padding: 3.2rem;
 }
