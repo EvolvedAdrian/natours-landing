@@ -36,7 +36,7 @@ To run this project locally, you must have **Node.js** installed. You can check 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/EvolvedAdrian/natours-landing.git](https://github.com/EvolvedAdrian/natours-landing.git)
+    git clone https://github.com/EvolvedAdrian/natours-landing.git
     ```
 2.  **Navigate to the directory:**
     ```bash
